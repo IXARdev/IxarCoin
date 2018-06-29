@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/stipend.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/ixarcoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Stipend"
-            VALUE "FileDescription",    "Stipend-Qt (OSS GUI client for Stipend)"
+            VALUE "CompanyName",        "IxarCoin"
+            VALUE "FileDescription",    "IxarCoin-Qt (OSS GUI client for IxarCoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "stipend-qt"
-            VALUE "LegalCopyright",     "Copyright (c) 2017-2018 Stipend Developers, Copyright (c) 2014-2015 Dash Developers, Copyright (c) 2011-2012 PPCoin Developers, Copyright (c) 2009-2014 Bitcoin Developers"
+            VALUE "InternalName",       "ixarcoin-qt"
+            VALUE "LegalCopyright",     "Copyright (c) 2017-2018 IxarCoin Developers, Copyright (c) 2014-2015 Dash Developers, Copyright (c) 2011-2012 PPCoin Developers, Copyright (c) 2009-2014 Bitcoin Developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "stipend-qt.exe"
-            VALUE "ProductName",        "Stipend-Qt"
+            VALUE "OriginalFilename",   "ixarcoin-qt.exe"
+            VALUE "ProductName",        "IxarCoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
