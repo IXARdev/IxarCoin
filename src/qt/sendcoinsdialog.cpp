@@ -43,7 +43,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Ixarcoin address (e.g. SXZ1DpQPXqAq5pWGFjLgsAsxoSRM23cbNK)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Ixarcoin address (e.g. iXZ1DpQPXqAq5pWGFjLgsAsxoSRM23cbNK)"));
 #endif
 
     addEntry();
