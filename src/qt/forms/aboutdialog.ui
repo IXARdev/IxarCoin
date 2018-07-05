@@ -95,7 +95,8 @@
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The TransferCoin developers
 Copyright © 2014-2015 Dash Developers
-Copyright © 2017-2018 The Ixarcoin developers</string>
+Copyright © 2017-2018 The Stipend Developers
+Copyright © 2017-2018 The Ixarcoin Developers</string>
        </property>
        <property name="textInteractionFlags">
         <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
