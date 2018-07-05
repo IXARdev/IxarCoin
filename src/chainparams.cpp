@@ -119,7 +119,21 @@ public:
       	vSeeds.push_back(CDNSSeedData("3",  "seed3.ixar.net"));
       	vSeeds.push_back(CDNSSeedData("4",  "seed4.ixar.net"));
       	vSeeds.push_back(CDNSSeedData("5",  "seed5.ixar.net"));
-
+	vSeeds.push_back(CDNSSeedData("6",  "seed6.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("7",  "seed7.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("8",  "seed8.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("9",  "seed9.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("10",  "seed10.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("11",  "seed11.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("12",  "seed12.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("13",  "seed13.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("14",  "seed14.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("15",  "seed15.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("16",  "seed16.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("17",  "seed17.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("18",  "seed18.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("19",  "seed19.ixar.net"));
+        vSeeds.push_back(CDNSSeedData("20",  "seed20.ixar.net"));
       	convertSeeds(vFixedSeeds, pnSeed, ARRAYLEN(pnSeed), nDefaultPort);
 
         getHardcodedSeeds(vFixedSeeds);
