@@ -44,7 +44,7 @@ Welcome to the future!
 * Last PoW Block = Block 350000
 
 
-##### PoS Rewards:
+#### PoS Rewards:
 
 *	since block 1921: 30
 * since block 12001: 45
@@ -60,10 +60,9 @@ Welcome to the future!
 * Halves every 350000 blocks after
 
 
-##### MN Rewards:
+##### Masternode and Wallet Staking rewards:
 
-* since block 1921: 90%
-
+* since block 1921: from the POS block reward 90% to MN and 10% to Wallet Staking 
 
 ###### License
 
