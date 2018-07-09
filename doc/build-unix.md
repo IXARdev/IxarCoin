@@ -178,8 +178,8 @@ Build LevelDB static libs first (check for file permissions in case of error)
     cd ..
 
 With UPNP:
-    qmake -qt=qt5
-    make
+```    qmake -qt=qt5
+    make```
 
 Without UPNP (Recommended) :
 
